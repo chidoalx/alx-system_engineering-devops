@@ -1,0 +1,1 @@
+learn basics on shell
